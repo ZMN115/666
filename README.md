@@ -1,4 +1,4 @@
-# Resistance 2.0.1
+# Resistance 2.0.2
 
 ## What is Resistance?
 
